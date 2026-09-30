@@ -14,8 +14,8 @@
             "description": "Servidor oficial de DomiFly Minecraft",
             "icon": "https://mc-heads.net/avatar/DomiFly/64",
             "version": "1.0.0",
-            "address": "domifly.minecra.fr",
-            "minecraftVersion": "1.21.1",
+            "address": "TU_IP_REAL_DE_APOLLO_AQUI",
+            "minecraftVersion": "1.21.11",
             "discord": {
                 "shortId": "Survival",
                 "largeImageText": "DomiFly Survival",
@@ -43,13 +43,13 @@
                     },
                     "subModules": [
                         {
-                            "id": "fabric-loader-0.19.5-1.21.1",
+                            "id": "fabric-loader-0.19.5-1.21.11",
                             "name": "Fabric Version Manifest",
                             "type": "VersionManifest",
                             "artifact": {
-                                "size": 2862,
-                                "MD5": "c1461b2e04a9dc0a6c66691e93f05882",
-                                "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.19.5/profile/json"
+                                "size": 2865,
+                                "MD5": "5af63a741e5f0f8ff1059df6bf639295",
+                                "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.11/0.19.5/profile/json"
                             }
                         }
                     ]
