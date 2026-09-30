@@ -55,14 +55,14 @@
                     ]
                 },
                 {
-                    "id": "custommc-1-0-2",
-                    "name": "CustomMc-1.0.2",
+                    "id": "domifly-menu-1-0-0",
+                    "name": "domifly-menu-1.0.0",
                     "type": "File",
                     "artifact": {
-                        "size": 281087,
-                        "MD5": "f3d5d56c8d6f238b20a9b5b57c636021",
-                        "url": "https://cdn.modrinth.com/data/to37wHIu/versions/yPnovkL1/CustomMc.jar",
-                        "path": "mods/CustomMc.jar"
+                        "size": 277799,
+                        "MD5": "9ccd7bb4241480bdfc645105fa33fdb4",
+                        "url": "https://github.com/Andzamc/domifly-distro/releases/download/v1.0.0/domifly-menu-1.0.0.jar",
+                        "path": "mods/domifly-menu-1.0.0.jar"
                     }
                 },
                 {
