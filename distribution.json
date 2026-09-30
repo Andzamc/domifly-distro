@@ -339,6 +339,17 @@
                         "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Xvytpywc/fancymenu_fabric_3.9.14_MC_1.21.11.jar",
                         "path": "mods/fancymenu_fabric_3.9.14_MC_1.21.11.jar"
                     }
+                },
+                {
+                    "id": "fancymenu-config",
+                    "name": "FancyMenu Config Pack",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3726089,
+                        "MD5": "e0f7977581d1e7b77156bbaa581940ee",
+                        "url": "https://github.com/Andzamc/domifly-distro/releases/download/v1.0.0/fancymenu-config.zip",
+                        "path": "config/fancymenu-config.zip"
+                    }
                 }
             ]
         }
