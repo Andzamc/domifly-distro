@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "rss": "https://domifly.minecra.fr/noticias.rss",
     "discord": {
-        "clientId": "TU_DISCORD_APP_ID_AQUI",
+        "clientId": "https://discord.gg/yEmPFpRsJ",
         "smallImageText": "DomiFly MC",
         "smallImageKey": "icon_small"
     },
