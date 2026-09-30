@@ -1,0 +1,50 @@
+{
+    "_comment": "DomiFly MC - Distribution Index. Sube este archivo a tu servidor web y pon su URL en distromanager.js",
+    "version": "1.0.0",
+    "rss": "https://domifly.minecra.fr/noticias.rss",
+    "discord": {
+        "clientId": "TU_DISCORD_APP_ID_AQUI",
+        "smallImageText": "DomiFly MC",
+        "smallImageKey": "icon_small"
+    },
+    "servers": [
+        {
+            "id": "domifly-survival-1",
+            "name": "DomiFly Survival",
+            "description": "Servidor oficial de DomiFly Minecraft",
+            "icon": "https://mc-heads.net/avatar/DomiFly/64",
+            "version": "1.0.0",
+            "address": "domifly.minecra.fr",
+            "minecraftVersion": "1.21.1",
+            "discord": {
+                "shortId": "Survival",
+                "largeImageText": "DomiFly Survival",
+                "largeImageKey": "server_icon"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "javaOptions": {
+                "supported": ">=21.x",
+                "suggestedMajor": 21,
+                "ram": {
+                    "recommended": 3072,
+                    "minimum": 2048
+                }
+            },
+            "modules": [
+                {
+                    "_comment": "Fabric Loader 0.19.5 para 1.21.1 el mas reciente estable.",
+                    "id": "net.fabricmc:fabric-loader:0.19.5",
+                    "name": "Fabric Loader 0.19.5",
+                    "type": "Fabric",
+                    "artifact": {
+                        "size": 0,
+                        "MD5": "",
+                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+                        "path": "net/fabricmc/fabric-loader/0.19.5/fabric-loader-0.19.5.jar"
+                    }
+                }
+            ]
+        }
+    ]
+}
