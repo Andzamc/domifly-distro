@@ -33,16 +33,26 @@
             },
             "modules": [
                 {
-                    "_comment": "Fabric Loader 0.19.5 para 1.21.1 el mas reciente estable.",
                     "id": "net.fabricmc:fabric-loader:0.19.5",
                     "name": "Fabric Loader 0.19.5",
                     "type": "Fabric",
                     "artifact": {
-                        "size": 0,
-                        "MD5": "",
-                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
-                        "path": "net/fabricmc/fabric-loader/0.19.5/fabric-loader-0.19.5.jar"
-                    }
+                        "size": 1984980,
+                        "MD5": "23bf6a8c5ba938db7d13959a2630357f",
+                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.19.5/fabric-loader-0.19.5.jar"
+                    },
+                    "subModules": [
+                        {
+                            "id": "fabric-loader-0.19.5-1.21.1",
+                            "name": "Fabric Version Manifest",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 2862,
+                                "MD5": "c1461b2e04a9dc0a6c66691e93f05882",
+                                "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.19.5/profile/json"
+                            }
+                        }
+                    ]
                 }
             ]
         }
