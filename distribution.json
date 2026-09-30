@@ -306,6 +306,39 @@
                         "url": "https://github.com/Andzamc/domifly-distro/releases/download/v1.0.0/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
                         "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar"
                     }
+                },
+                {
+                    "id": "konkrete-1-9-18-1-21-11-fabric",
+                    "name": "konkrete_fabric_1.9.18_MC_1.21.11",
+                    "type": "File",
+                    "artifact": {
+                        "size": 771623,
+                        "MD5": "13a0bbba48a016a3ca7ac55ac1612027",
+                        "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/6ypTGwlP/konkrete_fabric_1.9.18_MC_1.21.11.jar",
+                        "path": "mods/konkrete_fabric_1.9.18_MC_1.21.11.jar"
+                    }
+                },
+                {
+                    "id": "melody-1-0-15-1-21-11-fabric",
+                    "name": "melody_fabric_1.0.15_MC_1.21.11",
+                    "type": "File",
+                    "artifact": {
+                        "size": 227886,
+                        "MD5": "8b7f0aef2acc3c59d67f79809608b5a8",
+                        "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/Xo1GAiPu/melody_fabric_1.0.15_MC_1.21.11.jar",
+                        "path": "mods/melody_fabric_1.0.15_MC_1.21.11.jar"
+                    }
+                },
+                {
+                    "id": "fancymenu-3-9-14-1-21-11-fabric",
+                    "name": "fancymenu_fabric_3.9.14_MC_1.21.11",
+                    "type": "File",
+                    "artifact": {
+                        "size": 26234450,
+                        "MD5": "9132258665e3dd0e245ece1a4822093c",
+                        "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Xvytpywc/fancymenu_fabric_3.9.14_MC_1.21.11.jar",
+                        "path": "mods/fancymenu_fabric_3.9.14_MC_1.21.11.jar"
+                    }
                 }
             ]
         }
