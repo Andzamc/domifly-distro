@@ -14,7 +14,7 @@
             "description": "Servidor oficial de DomiFly Minecraft",
             "icon": "https://mc-heads.net/avatar/DomiFly/64",
             "version": "1.0.0",
-            "address": "TU_IP_REAL_DE_APOLLO_AQUI",
+            "address": "domifly.minecra.fr",
             "minecraftVersion": "1.21.11",
             "discord": {
                 "shortId": "Survival",
