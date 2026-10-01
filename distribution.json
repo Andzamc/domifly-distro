@@ -275,17 +275,6 @@
                     }
                 },
                 {
-                    "id": "tl_skin_cape_fabric_1-21-11-1-38",
-                    "name": "tl_skin_cape_fabric_1.21.11-1.38",
-                    "type": "File",
-                    "artifact": {
-                        "size": 2840456,
-                        "MD5": "3675354a14ea5826a9d20c36c0ea3866",
-                        "url": "https://github.com/Andzamc/domifly-distro/releases/download/v1.0.0/tl_skin_cape_fabric_1.21.11-1.38.jar",
-                        "path": "mods/tl_skin_cape_fabric_1.21.11-1.38.jar"
-                    }
-                },
-                {
                     "id": "travelersbackpack-fabric-1-21-11-10-11-11",
                     "name": "travelersbackpack-fabric-1.21.11-10.11.11",
                     "type": "File",
