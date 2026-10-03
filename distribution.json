@@ -339,6 +339,17 @@
                         "url": "https://github.com/Andzamc/domifly-distro/releases/download/v1.0.0/fancymenu-config.zip",
                         "path": "config/fancymenu-config.zip"
                     }
+                },
+                {
+                    "id": "dimension-daddy",
+                    "name": "Dimension Daddy",
+                    "type": "File",
+                    "artifact": {
+                        "size": 119574,
+                        "MD5": "f6fb0fbad1b6f403ea5dd9be3297c4e2",
+                        "url": "https://github.com/Andzamc/domifly-distro/releases/download/v1.0.0/DimensionDaddy-1.0.1.jar",
+                        "path": "mods/DimensionDaddy-1.0.1.jar"
+                    }
                 }
             ]
         }
