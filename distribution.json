@@ -372,6 +372,17 @@
                         "url": "https://github.com/Andzamc/domifly-distro/releases/download/v1.0.0/SecurityCraft-fabric-V0.6.jar",
                         "path": "mods/SecurityCraft-fabric-V0.6.jar"
                     }
+                },
+                {
+                      "id": "iris",
+                      "name": "Iris",
+                      "type": "File",
+                      "artifact": {
+                        "size": 2807718,
+                        "MD5": "ecb9537a4d3ad512c602b36e32399baa",
+                        "url": "https://github.com/Andzamc/domifly-distro/releases/download/v1.0.0/iris-fabric-1.10.8+mc1.21.11.jar",
+                        "path": "mods/iris-fabric-1.10.8+mc1.21.11.jar"
+                  }
                 }
             ]
         }
